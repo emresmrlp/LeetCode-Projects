@@ -1,6 +1,9 @@
 /**
  * Note: The returned array must be malloced, assume caller calls free().
  */
+
+// Success
+
 #include <stdlib.h>
 
 int* twoSum(int* nums, int numsSize, int target, int* returnSize) {
