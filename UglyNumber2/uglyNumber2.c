@@ -1,3 +1,5 @@
+// Time Limit Exceeded / fail
+
 int isUgly(int n)
 {
 	while (n % 2 == 0)
