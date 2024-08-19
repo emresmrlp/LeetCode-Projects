@@ -1,4 +1,4 @@
-// Success
+// Success 3ms
 
 int minSteps(int n) {
 	if (n <= 1)
