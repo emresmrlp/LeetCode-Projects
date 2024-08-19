@@ -1,3 +1,5 @@
+// Success - 2ms
+
 bool isUgly(int n) {
     if (n <= 0)
         return false;
