@@ -1,4 +1,4 @@
-// Fail - Time Limit Exceeded
+// Fail - Time Limit Exceeded error
 
 int isUgly(int n)
 {
