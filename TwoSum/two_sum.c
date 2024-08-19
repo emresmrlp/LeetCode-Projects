@@ -2,7 +2,7 @@
  * Note: The returned array must be malloced, assume caller calls free().
  */
 
-// Success
+// Success - 119 ms :(
 
 #include <stdlib.h>
 
