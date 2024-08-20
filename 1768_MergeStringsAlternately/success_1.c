@@ -1,3 +1,5 @@
+// Success 0ms
+
 #include <string.h>
 #include <stdlib.h>
 
